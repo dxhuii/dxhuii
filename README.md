@@ -24,7 +24,7 @@
   <img align="left" alt="dxhuii | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dxhuii.dxhuii)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=dxhuii.dxhuii)
 
 <a href="https://github.com/dxhuii/blog"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
@@ -54,12 +54,12 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=php&logoColor=white)
+![Mysql](https://img.shields.io/badge/-Mysql-13aa52?style=flat-square&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white)
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
+![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
